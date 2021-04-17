@@ -1,21 +1,9 @@
 ### Hi there 👋
 
 - 🎓 I graduated from a BSc in Computer Science @ University of Florence, First Class Hons. cum Laude
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I like a lot 
--->
-
-
- 
-    🌱 I’m currently a MSc student in Artificial Intelligence @ University of Bologna
-    🔭 I’m currently working on a Computer Vision project
-    🤔 I’m looking for help with XVLauncher documentation
-    📫 How to reach me: Write me an email or contact me on Linkedin
-    😄 Pronouns: he/him
-    ⚡ Fun fact: I use light themes to code
+- 🔭 I’m currently working on an Android Game
+- 🌱 I’m currently learning Kotlin
+- 👯 I’m looking to collaborate on developing mobile Apps
+- 🤔 I’m looking for help with graphics design
+- 📫 How to reach me: Write me an email or contact me on Linkedin
+- ⚡ Fun fact: I like to invest in cryptocurrencies!
