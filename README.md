@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🎓 I graduated from a BSc in Computer Science @ University of Florence, First Class Hons. cum Laude
+- 🎓 I graduated from a BSc in Computer Science @ University of Florence
 - 🔭 I’m currently working on an Android Game
 - 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on developing mobile Apps
