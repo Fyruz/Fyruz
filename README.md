@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Fyruz/Fyruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- 🎓 I graduated from a BSc in Computer Science @ University of Florence, First Class Hons. cum Laude
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,5 +8,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like a lot 
 -->
+
+
+ 
+    🌱 I’m currently a MSc student in Artificial Intelligence @ University of Bologna
+    🔭 I’m currently working on a Computer Vision project
+    🤔 I’m looking for help with XVLauncher documentation
+    📫 How to reach me: Write me an email or contact me on Linkedin
+    😄 Pronouns: he/him
+    ⚡ Fun fact: I use light themes to code
