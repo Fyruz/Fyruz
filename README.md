@@ -7,3 +7,7 @@
 - 🤔 I’m looking for help with graphics design
 - 📫 How to reach me: Write me an email or contact me on Linkedin
 - ⚡ Fun fact: I like to invest in cryptocurrencies!
+
+Social:
+- Linkedin https://www.linkedin.com/in/gianmarcoferruzzi/
+- CV https://www.fyruz.it/
