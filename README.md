@@ -8,4 +8,4 @@
 
 Social:
 - Linkedin https://www.linkedin.com/in/gianmarcoferruzzi/
-- CV https://www.gferruzzi.it/
+- CV https://www.gferruzzi.cloud/
